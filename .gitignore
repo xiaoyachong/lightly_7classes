@@ -1,6 +1,7 @@
 out_slurm_*/
 logs/
 42folders_7classes_png/
+42folders_7classes_png_scansplit/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
